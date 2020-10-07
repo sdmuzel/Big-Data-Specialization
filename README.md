@@ -14,9 +14,9 @@ This specialization covers:
 
 ## Courses in this Program
 
-1) [Introduction to Big Data]
-2) [Big Data Modeling and Management Systems]
-3) [Big Data Integration and Processing]
-4) [Machine Learning With Big Data]
-5) [Graph Analytics for Big Data]
-6) [Capstone]
+1) Introduction to Big Data
+2) Big Data Modeling and Management Systems
+3) Big Data Integration and Processing
+4) Machine Learning With Big Data
+5) Graph Analytics for Big Data
+6) Capstone
